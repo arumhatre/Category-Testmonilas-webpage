@@ -52,6 +52,10 @@ p{margin-bottom:0;color:#212121;font-weight:400}
 .Category-div .banner_h1_heding span{font-weight:600;color:#1c75a9}
 .Category-div .banner-model-front-wid-cls{width:65%}
 .Category-div .banner_rating_cls_new{margin-left:-10px}
+@media (max-width:1680px){
+.Category-div .banner_h1_heding{font-size:35px;color:#414042;font-weight:600;margin-bottom:0}
+.Category-div .banner_rating_cls_new{width:50%}
+}
 @media (max-width:1360px){
 .Category-div .banner_h1_heding{font-size:30px;color:#414042;font-weight:600;margin-bottom:0}
 .Category-div .banner_rating_cls_new{width:60%}
